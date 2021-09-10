@@ -1,0 +1,38 @@
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,GENE EXPRESSION  and clinical DATA,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25055/miniml/GSE25055_family.xml.tgz
+,,,,
+,,,ARTICLE NAME,A genomic predictor of response and survival following taxane-anthracycline chemotherapy for invasive breast cancer
+,,,,
+,,,GEO,https://www.ncbi.nlm.nih.gov/pubmed/21558518
+,,,,
+,,,AUTHOR / DATE,"Hatzis et al., 2011"
+,,,,
+,,,SUPP DATA,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25055
+,,,,
+,,,,
+,,,,
+,,,,
+,,,ER,eostrogen receptor
+,,,PR,progestron receptor
+,,,HER2,Human Epidermal Growth Factor Receptor-2
+,,,RD,relapse disease
+,,,Pcr,complete response 
+,,,RCB,
+,,,DFS,disease-free survival
+,,,ESR1,eostrogen receptor 1
+,,,ERBB2,Human Epidermal Growth Factor Receptor-2
+,,,GGI,genomic grad index
+,,,PAM50,Prediction Analysis of Microarray 50
+,,,DLDA30,30-gene predictor
+,,,,
+,,,nodal status, Number of Lymph Nodes Examined
+,,,,
+,,,ajcc,American Joint Committee on Cancer
